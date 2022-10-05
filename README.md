@@ -15,6 +15,7 @@ Biolink a link-in-bio template made with HTML and CSS. it lets to add every URL 
 ### Installing
 
 * Fork this repository and deploy it in you PaaS provider ( Most providers have an option to deploy from github)
+* I personally use Vercel/Netlify
 * You can add/remove URLs by editing the `index.html` file.
 
 ## Help
