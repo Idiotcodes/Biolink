@@ -4,7 +4,7 @@ A link-in-bio template made with HTML and CSS
 
 ## Description
 
-Biolink a link-in-bio template made with HTML and CSS. it lets to add every URL you want to it. See it as Linktree or Carrd but selfhosted.
+Biolink a link-in-bio template made with HTML and CSS. it lets to add every URL you want to it. See it as Linktree or Carrd but self-hosted.
 
 ## Getting Started
 
