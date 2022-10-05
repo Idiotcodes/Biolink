@@ -16,7 +16,7 @@ Biolink a link-in-bio template made with HTML and CSS. it lets to add every URL 
 
 * Fork this repository and deploy it in you PaaS provider ( Most providers have an option to deploy from github)
 * I personally use Vercel/Netlify
-* Upload your `profile.jpg` and `background.jpg` in the **Images** directory
+* Upload your `profile.jpg` and `background.jpg` in the **images** directory
 * You can add/remove URLs by editing the `index.html` file.
 
 ## Help
